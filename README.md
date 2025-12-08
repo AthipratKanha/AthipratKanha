@@ -114,6 +114,15 @@ I sit between **business**, **delivery**, and **engineering**:
 </p>
 
 <p align="left">
+  <!-- Data Portal / Platform -->
+  <img src="https://img.shields.io/badge/CKAN-Data%20Portal-FF6D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20DQL-Data%20Query-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="left">
   <!-- Dev background -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -125,23 +134,6 @@ I sit between **business**, **delivery**, and **engineering**:
   <!-- Analytics / Reporting -->
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
-
----
-
-## 🎓 Education
-
-**B.A. in History — Srinakharinwirot University**  
-*2014 – 2018*
-
----
-
-## 📜 Certifications
-
-- ISO/IEC 29110 — Training Certificates (PM and SI), 2025  
-- Microsoft Project Management, 2023  
-- Google Project Management (Professional Certificate), 2023  
-- Microsoft Business Analysis, 2023  
-- Generation Thailand — Junior Software Developer (MERN), 2022  
 
 ---
 
