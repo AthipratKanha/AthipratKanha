@@ -1,4 +1,4 @@
-<h1 align="center">Athiprat (Auto) Kanha</h1>
+<h1 align="center">Athiprat Kanha (Auto)</h1>
 
 <p align="center">
   <b>Assistant Project Manager & Product Manager · ex-Software Developer</b><br/>
@@ -130,11 +130,11 @@ I specialize in delivering government, education, and enterprise software using 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athiprat-kanha&show_icons=true&theme=tokyonight&border_radius=10" alt="Auto's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athipratkanha&show_icons=true&theme=tokyonight&border_radius=10" alt="Auto's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athiprat-kanha&theme=tokyonight&border_radius=10" alt="Auto's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiprat-kanha&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athipratkanha&theme=tokyonight&border_radius=10" alt="Auto's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athipratkanha&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
